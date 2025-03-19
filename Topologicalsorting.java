@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 public class TopologicalSorting {
-    
+
     // Class to represent directed edges in the graph
     static class Edge {
         int src, dest;
